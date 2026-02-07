@@ -7,7 +7,8 @@ ipv6: false
 find-process-mode: strict
 unified-delay: true
 tcp-concurrent: true
-
+quic:
+  disable: true
 ### 如果使用的是裸核，需要将下面的注释去掉，方便ui界面的使用
 external-controller: 0.0.0.0:9988
 secret: "asdfasdf"
