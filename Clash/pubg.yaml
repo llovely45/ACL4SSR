@@ -1,5 +1,5 @@
 payload:
-- DOMAIN-KEYWORD,pubg
-- DOMAIN-SUFFIX,pubgmobile.com
-- DOMAIN-SUFFIX,igamecj.com
-- DOMAIN-SUFFIX,gcloudcs.com
+  - DOMAIN-KEYWORD,pubg
+  - DOMAIN-SUFFIX,pubgmobile.com
+  - DOMAIN-SUFFIX,igamecj.com
+  - DOMAIN-SUFFIX,gcloudcs.com

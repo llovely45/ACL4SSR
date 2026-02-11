@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-KEYWORD,cocopilot
+  - DOMAIN,api.github.com
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,api.githubcopilot.com
+  - DOMAIN,api.individual.githubcopilot.com
